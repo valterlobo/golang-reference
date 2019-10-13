@@ -6,7 +6,7 @@
 - [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0&t=1s) [slides and code](https://github.com/katzien/go-structure-examples)
 
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
-- 
+
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
 - [Trying Clean Architecture on Golang](https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047)
