@@ -3,31 +3,34 @@
 
 ## Architecture and code structure
 
-- [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0&t=1s)
+- [GopherCon 2018: Kat Zien - How Do You Structure Your Go Apps](https://www.youtube.com/watch?v=oL6JBUk6tj0&t=1s) [slides and code](https://github.com/katzien/go-structure-examples)
 
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article)
 - 
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 
+- [Trying Clean Architecture on Golang](https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047)
+  
+- [Go patterns](https://github.com/bvwells/go-patterns/tree/master/structural)
+  
+- [Go Modules](https://blog.golang.org/using-go-modules)
+
 ## Style Guide
 
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
-- [Go Styleguide](https://github.com/bahlo/go-styleguide) [中文翻译](https://github.com/cch123/go-styleguide/blob/master/README_zhcn.md)
+
+- [Go Styleguide](https://github.com/bahlo/go-styleguide)
+  
 - [Go testing style guide](https://arp242.net/weblog/go-testing-style.html)
+
 - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go#use-consistent-spelling-of-certain-words)
+
 - [Uber Go Style Guide](https://github.com/uber-go/guide)
 
-# Go Best Practices
-
+## Go Best Practices
 
 - [Effective Go](https://golang.org/doc/effective_go.html)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Common Mistakes](https://github.com/golang/go/wiki/CommonMistakes)
-
-
-- [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
-
-
-
 
 - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
