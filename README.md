@@ -15,6 +15,8 @@
   
 - [Go Modules](https://blog.golang.org/using-go-modules)
 
+- [Ultimate Setup for Your Next Golang Project](https://towardsdatascience.com/ultimate-setup-for-your-next-golang-project-1cc989ad2a96)
+
 ## Style Guide
 
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
