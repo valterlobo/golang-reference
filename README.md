@@ -36,3 +36,7 @@
 - [Common Mistakes](https://github.com/golang/go/wiki/CommonMistakes)
 
 - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
+- [Managing CPU load in Golang] (https://blog.ellation.com/managing-cpu-load-in-golang-515b9356bc5)
+
+## Go tools 
+- [Debug] (https://medium.com/average-coder/how-to-debug-a-running-go-app-with-vscode-76e3eac45bd)
