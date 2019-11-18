@@ -16,6 +16,8 @@
 - [Go Modules](https://blog.golang.org/using-go-modules)
 
 - [Ultimate Setup for Your Next Golang Project](https://towardsdatascience.com/ultimate-setup-for-your-next-golang-project-1cc989ad2a96)
+- [Security assessment techniques for Go projects] (https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/)
+- [GO DOCKER] (https://itnext.io/minimize-go-resource-size-with-docker-multi-stage-build-3b03cb9787e1)
 
 ## Style Guide
 
