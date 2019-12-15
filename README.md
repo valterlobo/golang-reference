@@ -19,6 +19,9 @@
 - [Security assessment techniques for Go projects](https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/)
 - [GO DOCKER](https://itnext.io/minimize-go-resource-size-with-docker-multi-stage-build-3b03cb9787e1)
 
+- [Domain Driven Design Pattern-FabioRodrigues](https://github.com/FabioRodrigues/gostructure/tree/master/ddd)
+
+
 ## Style Guide
 
 - [Style guideline for Go packages](https://rakyll.org/style-packages/)
