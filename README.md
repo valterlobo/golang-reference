@@ -44,11 +44,12 @@
 - [Managing CPU load in Golang] (https://blog.ellation.com/managing-cpu-load-in-golang-515b9356bc5)
 
 ## Go tools 
+
 - [Debug VSCODE](https://medium.com/average-coder/how-to-debug-a-running-go-app-with-vscode-76e3eac45bd)
 
-- [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
+-[Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 
-- [GraphQL with Golang: A Deep Dive From Basics To Advanced]https://www.freecodecamp.org/news/deep-dive-into-graphql-with-golang-d3e02a429ac3/)
+-[GraphQL with Golang: A Deep Dive From Basics To Advanced]https://www.freecodecamp.org/news/deep-dive-into-graphql-with-golang-d3e02a429ac3/)
 
 -[Building Microservices with Event Sourcing/CQRS in Go using gRPC, NATS Streaming and CockroachDB](https://medium.com/@shijuvar/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa)
 
