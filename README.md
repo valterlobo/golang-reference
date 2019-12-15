@@ -42,3 +42,5 @@
 
 ## Go tools 
 - [Debug] (https://medium.com/average-coder/how-to-debug-a-running-go-app-with-vscode-76e3eac45bd)
+
+- [Using Makefile(s) for Go] (https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
