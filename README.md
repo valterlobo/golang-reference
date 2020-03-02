@@ -55,3 +55,5 @@
 - [Building Microservices with Event Sourcing/CQRS in Go using gRPC, NATS Streaming and CockroachDB(https://medium.com/@shijuvar/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa)
 
 - [Golang IO Cookbook](https://github.com/jesseduffield/notes/wiki/Golang-IO-Cookbook).
+- [Use Environment Variable in your next Golang Project] (https://towardsdatascience.com/use-environment-variable-in-your-next-golang-project-39e17c3aaa66)
+
