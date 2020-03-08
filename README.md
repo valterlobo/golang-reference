@@ -44,6 +44,9 @@
 - [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide#1)
 - [Managing CPU load in Golang] (https://blog.ellation.com/managing-cpu-load-in-golang-515b9356bc5)
 - [GO DDD](https://github.com/marcusolsson/goddd)
+  
+  [Using Domain-Driven Design(DDD)in Golang] (https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5)
+
 
 ## Go tools 
 
