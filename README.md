@@ -60,4 +60,5 @@
 
 - [Golang IO Cookbook](https://github.com/jesseduffield/notes/wiki/Golang-IO-Cookbook).
 - [Use Environment Variable in your next Golang Project](https://towardsdatascience.com/use-environment-variable-in-your-next-golang-project-39e17c3aaa66)
+ - [How to Improve Code Quality With an Automatic Check in Go](https://medium.com/better-programming/how-to-improve-code-quality-with-an-automatic-check-in-go-d18a5eb85f09)
 
